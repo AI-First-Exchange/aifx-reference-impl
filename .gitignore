@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Avoid accidentally committing raw media files:
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.mp4
+*.mov

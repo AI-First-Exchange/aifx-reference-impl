@@ -1,0 +1,17 @@
+Creator Declaration
+Declaration Type: Creator-Declared Use Copyright © 2025 Jai Simon
+This work is an AI-assisted or AI-generated creative output that was directed, curated, and finalized by a human author.
+Declaration of Use
+The creator declares that the packaged creative output contained in this AIFX container may be:
+Played, streamed, displayed, and distributed
+Used in commercial and non-commercial contexts
+Included in derivative works, compilations, or presentations when authorized by the creator
+Disclosures & Limitations
+This declaration does not transfer ownership of any underlying AI models, tools, or platforms involved in creation
+This work must not be misrepresented as entirely human-created
+AIFX metadata, provenance records, and integrity files must not be removed, altered, or falsified
+Scope Notice
+This declaration applies only to the creative output packaged within this AIFX container. Third-party platform terms, model licenses, or tool agreements used during creation may also apply and are not reproduced here.
+Disclaimer
+This declaration is provided for documentation and disclosure purposes only. No warranty is expressed or implied.
+
